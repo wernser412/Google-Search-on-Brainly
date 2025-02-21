@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.6
 // @description  Muestra un icono de búsqueda de Google al seleccionar texto en Brainly y abre los resultados en un cuadro movible y redimensionable sin retraso.
+// @downloadURL  https://github.com/wernser412/Google-Search-on-Brainly/raw/refs/heads/main/Google%20Search%20in%20Movable%20&%20Resizable%20Box%20on%20Brainly.user.js
 // @author       ChatGPT
 // @match        https://brainly.lat/*
 // @grant        GM_addStyle
