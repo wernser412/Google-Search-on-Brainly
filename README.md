@@ -1,5 +1,7 @@
 # Google Search in Movable & Resizable Box on Brainly
 
+**Última Actualización:** 08 de septiembre de 2025
+
 Este es un script de **Tampermonkey** que permite buscar en **Google** al seleccionar texto en [Brainly](https://brainly.lat/). Muestra un icono de búsqueda y abre los resultados en un **cuadro flotante, movible y redimensionable** sin necesidad de abrir una nueva pestaña.
 
 ## ✨ Características
